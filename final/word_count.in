@@ -1,0 +1,6 @@
+This is a small input file for the word-count program.
+The word-count program counts words. It reads an input
+file, counts words in the file, and then prints the counts.
+The size of the file is small, but ensures that the word
+"the" has a count of at least ten. Look for "the" in
+the output, and see the alignment of its count.

@@ -1,0 +1,8 @@
+artifact_impl.hpp
+artifact.hpp
+artifact_impl.cpp
+artifact.cpp
+fakemake.o
+artifact_impl.o
+artifact.o
+fakemake

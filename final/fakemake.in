@@ -1,0 +1,10 @@
+fakemake fakemake.o
+fakemake artifact.o
+fakemake artifact_impl.o
+fakemake.o artifact.hpp
+fakemake.o artifact_impl.hpp
+artifact.o artifact.cpp
+artifact.o artifact.hpp
+artifact_impl.o artifact.hpp
+artifact_impl.o artifact_impl.hpp
+artifact_impl.o artifact_impl.cpp
